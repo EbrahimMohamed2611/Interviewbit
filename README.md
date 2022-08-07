@@ -21,11 +21,21 @@
 | 1   | [Single Number](https://www.interviewbit.com/problems/single-number/) | Amazon Sharechat Toppr Uber Technologies Inc Twitter | Bit Manipulation | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists.java) |
 
 </details>
+
 <details>
 <summary> Binary Search </summary>
 
-| #   | Problem                                                                                           | Companies     | Topic         | Language                                                                                                                                        |
-|-----|---------------------------------------------------------------------------------------------------|---------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Rotated Sorted Array Search](https://www.interviewbit.com/problems/rotated-sorted-array-search/) | Amazon Google | Binary Search | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists.java) |
+| #   | Problem                                                                                           | Companies                        | Topic         | Language                                                                                                                                               |
+|-----|---------------------------------------------------------------------------------------------------|----------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Rotated Sorted Array Search](https://www.interviewbit.com/problems/rotated-sorted-array-search/) | Facebook Google Microsoft Amazon | Binary Search | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binarySearch/RotatedSortedArraySearch.java) |
+
+</details>
+
+<details>
+<summary> Heaps and Maps </summary>
+
+| #   | Problem                                                                         | Companies                 | Topic          | Language |
+|-----|---------------------------------------------------------------------------------|---------------------------|----------------|----------|
+| 1   | [K Largest Elements](https://www.interviewbit.com/problems/k-largest-elements/) | Amazon Delhivery Flipkart | Heaps And Maps | [java]() |
 
 </details>
