@@ -43,8 +43,9 @@
 <details>
 <summary> Backtracking </summary>
 
-| #   | Problem                                                  | Companies        | Topic        | Language |
-|-----|----------------------------------------------------------|------------------|--------------|----------|
-| 1   | [Sub set](https://www.interviewbit.com/problems/subset/) | Amazon Microsoft | Backtracking | [java]() |
+| #   | Problem                                                                         | Companies        | Topic        | Language |
+|-----|---------------------------------------------------------------------------------|------------------|--------------|----------|
+| 1   | [Sub set](https://www.interviewbit.com/problems/subset/)                        | Amazon Microsoft | Backtracking | [java]() |
+| 2   | [Sub set Without Duplicate ](https://www.interviewbit.com/problems/subsets-ii/) | Amazon Microsoft | Backtracking | [java]() |
 
 </details>
