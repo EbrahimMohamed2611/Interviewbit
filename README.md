@@ -39,3 +39,12 @@
 | 1   | [K Largest Elements](https://www.interviewbit.com/problems/k-largest-elements/) | Amazon Delhivery Flipkart | Heaps And Maps | [java]() |
 
 </details>
+
+<details>
+<summary> Backtracking </summary>
+
+| #   | Problem                                                  | Companies        | Topic        | Language |
+|-----|----------------------------------------------------------|------------------|--------------|----------|
+| 1   | [Sub set](https://www.interviewbit.com/problems/subset/) | Amazon Microsoft | Backtracking | [java]() |
+
+</details>
