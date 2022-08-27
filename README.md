@@ -14,6 +14,14 @@
 </details>
 
 <details>
+<summary> Strings </summary>
+
+| #   | Problem                                                                                               | Companies                | Topic  | Language                                                                                                                                        |
+|-----|-------------------------------------------------------------------------------------------------------|--------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/) | Amazon Microsoft Groupon | String | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists.java) |
+
+</details>
+<details>
 <summary> Bit Manipulation </summary>
 
 | #   | Problem                                                               | Companies                                            | Topic            | Language                                                                                                                                        |
