@@ -60,8 +60,9 @@
 <details>
 <summary> Binary Tree </summary>
 
-| #   | Problem                                                                               | Companies     | Topic       | Language |
-|-----|---------------------------------------------------------------------------------------|---------------|-------------|----------|
-| 1   | [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/) | Amazon Zomato | Binary Tree | [java]() |
+| #   | Problem                                                                               | Companies                              | Topic       | Language |
+|-----|---------------------------------------------------------------------------------------|----------------------------------------|-------------|----------|
+| 1   | [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/) | Amazon Zomato                          | Binary Tree | [java]() |
+| 2   | [Least Common Ancestor](https://www.interviewbit.com/problems/symmetric-binary-tree/) | Facebook Adobe Microsoft Amazon Google | Binary Tree | [java]() |
 
 </details>
