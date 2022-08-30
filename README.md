@@ -16,9 +16,9 @@
 <details>
 <summary> Strings </summary>
 
-| #   | Problem                                                                                               | Companies                | Topic  | Language                                                                                                                                        |
-|-----|-------------------------------------------------------------------------------------------------------|--------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/) | Amazon Microsoft Groupon | String | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists.java) |
+| #   | Problem                                                                                               | Companies                | Topic  | Language                                                                                                                                              |
+|-----|-------------------------------------------------------------------------------------------------------|--------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/) | Amazon Microsoft Groupon | String | [java](hhttps://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/strings/LongestPalindromicSubstring.java) |
 
 </details>
 <details>
@@ -55,5 +55,13 @@
 |-----|---------------------------------------------------------------------------------|------------------|--------------|----------|
 | 1   | [Sub set](https://www.interviewbit.com/problems/subset/)                        | Amazon Microsoft | Backtracking | [java]() |
 | 2   | [Sub set Without Duplicate ](https://www.interviewbit.com/problems/subsets-ii/) | Amazon Microsoft | Backtracking | [java]() |
+
+</details>
+<details>
+<summary> Binary Tree </summary>
+
+| #   | Problem                                                                               | Companies     | Topic       | Language |
+|-----|---------------------------------------------------------------------------------------|---------------|-------------|----------|
+| 1   | [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/) | Amazon Zomato | Binary Tree | [java]() |
 
 </details>
