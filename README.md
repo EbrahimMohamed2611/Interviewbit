@@ -65,5 +65,6 @@
 | 1   | [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)               | Amazon Zomato                          | Binary Tree | [java]() |
 | 2   | [Least Common Ancestor](https://www.interviewbit.com/problems/symmetric-binary-tree/)               | Facebook Adobe Microsoft Amazon Google | Binary Tree | [java]() |
 | 3   | [Sorted Array To Balanced BST](https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/) | VMWare Amazon                          | Binary Tree | [java]() |
+| 4   | [Valid Binary Search Tree](https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/)     | Amazon Facebook                        | Binary Tree | [java]() |
 
 </details>
