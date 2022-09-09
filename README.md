@@ -7,9 +7,10 @@
 <details>
 <summary> Linked List</summary>
 
-| #   | Problem                                                                                 | Companies              | Topic       | Language                                                                                                                                        |
-|-----|-----------------------------------------------------------------------------------------|------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists/) | Microsoft Amazon Yahoo | Linked List | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists.java) |
+| #   | Problem                                                                                               | Companies              | Topic       | Language                                                                                                                                        |
+|-----|-------------------------------------------------------------------------------------------------------|------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists/)               | Microsoft Amazon Yahoo | Linked List | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists.java) |
+| 2   | [Remove Nth Node from List End](https://www.interviewbit.com/problems/remove-nth-node-from-list-end/) | HCL Amazon             | Linked List | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists.java) |
 
 </details>
 
@@ -24,9 +25,9 @@
 <details>
 <summary> Bit Manipulation </summary>
 
-| #   | Problem                                                               | Companies                                            | Topic            | Language                                                                                                                                        |
-|-----|-----------------------------------------------------------------------|------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Single Number](https://www.interviewbit.com/problems/single-number/) | Amazon Sharechat Toppr Uber Technologies Inc Twitter | Bit Manipulation | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists.java) |
+| #   | Problem                                                               | Companies                                            | Topic            | Language                                                                                                                                      |
+|-----|-----------------------------------------------------------------------|------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Single Number](https://www.interviewbit.com/problems/single-number/) | Amazon Sharechat Toppr Uber Technologies Inc Twitter | Bit Manipulation | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/bitManipulation/SingleNumber.java) |
 
 </details>
 
@@ -42,29 +43,29 @@
 <details>
 <summary> Heaps and Maps </summary>
 
-| #   | Problem                                                                         | Companies                 | Topic          | Language |
-|-----|---------------------------------------------------------------------------------|---------------------------|----------------|----------|
-| 1   | [K Largest Elements](https://www.interviewbit.com/problems/k-largest-elements/) | Amazon Delhivery Flipkart | Heaps And Maps | [java]() |
+| #   | Problem                                                                         | Companies                 | Topic          | Language                                                                                                                                       |
+|-----|---------------------------------------------------------------------------------|---------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [K Largest Elements](https://www.interviewbit.com/problems/k-largest-elements/) | Amazon Delhivery Flipkart | Heaps And Maps | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/KLargestElements.java) |
 
 </details>
 
 <details>
 <summary> Backtracking </summary>
 
-| #   | Problem                                                                         | Companies        | Topic        | Language |
-|-----|---------------------------------------------------------------------------------|------------------|--------------|----------|
-| 1   | [Sub set](https://www.interviewbit.com/problems/subset/)                        | Amazon Microsoft | Backtracking | [java]() |
-| 2   | [Sub set Without Duplicate ](https://www.interviewbit.com/problems/subsets-ii/) | Amazon Microsoft | Backtracking | [java]() |
+| #   | Problem                                                                         | Companies        | Topic        | Language                                                                                                                                             |
+|-----|---------------------------------------------------------------------------------|------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Sub set](https://www.interviewbit.com/problems/subset/)                        | Amazon Microsoft | Backtracking | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/backtracking/SubSet.java)                 |
+| 2   | [Sub set Without Duplicate ](https://www.interviewbit.com/problems/subsets-ii/) | Amazon Microsoft | Backtracking | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/backtracking/SubSetWithoutDuplicate.java) |
 
 </details>
 <details>
 <summary> Binary Tree </summary>
 
-| #   | Problem                                                                                             | Companies                              | Topic       | Language |
-|-----|-----------------------------------------------------------------------------------------------------|----------------------------------------|-------------|----------|
-| 1   | [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)               | Amazon Zomato                          | Binary Tree | [java]() |
-| 2   | [Least Common Ancestor](https://www.interviewbit.com/problems/symmetric-binary-tree/)               | Facebook Adobe Microsoft Amazon Google | Binary Tree | [java]() |
-| 3   | [Sorted Array To Balanced BST](https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/) | VMWare Amazon                          | Binary Tree | [java]() |
-| 4   | [Valid Binary Search Tree](https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/)     | Amazon Facebook                        | Binary Tree | [java]() |
+| #   | Problem                                                                                             | Companies                              | Topic       | Language                                                                                                                                             |
+|-----|-----------------------------------------------------------------------------------------------------|----------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)               | Amazon Zomato                          | Binary Tree | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binaryTree/SymmetricBinaryTree.java)      |
+| 2   | [Least Common Ancestor](https://www.interviewbit.com/problems/least-common-ancestor/)               | Facebook Adobe Microsoft Amazon Google | Binary Tree | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binaryTree/LeastCommonAncestor.java)      |
+| 3   | [Sorted Array To Balanced BST](https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/) | VMWare Amazon                          | Binary Tree | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binaryTree/SortedArrayToBalancedBST.java) |
+| 4   | [Valid Binary Search Tree](https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/)     | Amazon Facebook                        | Binary Tree | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binaryTree/ValidBinarySearchTree.java)    |
 
 </details>
