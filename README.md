@@ -7,10 +7,10 @@
 <details>
 <summary> Linked List</summary>
 
-| #   | Problem                                                                                               | Companies              | Topic       | Language                                                                                                                                        |
-|-----|-------------------------------------------------------------------------------------------------------|------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists/)               | Microsoft Amazon Yahoo | Linked List | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists.java) |
-| 2   | [Remove Nth Node from List End](https://www.interviewbit.com/problems/remove-nth-node-from-list-end/) | HCL Amazon             | Linked List | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists.java) |
+| #   | Problem                                                                                               | Companies              | Topic       | Language                                                                                                                                             |
+|-----|-------------------------------------------------------------------------------------------------------|------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists/)               | Microsoft Amazon Yahoo | Linked List | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists.java)      |
+| 2   | [Remove Nth Node from List End](https://www.interviewbit.com/problems/remove-nth-node-from-list-end/) | HCL Amazon             | Linked List | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/RemoveNthNodeFromListEnd.java) |
 
 </details>
 
@@ -67,5 +67,14 @@
 | 2   | [Least Common Ancestor](https://www.interviewbit.com/problems/least-common-ancestor/)               | Facebook Adobe Microsoft Amazon Google | Binary Tree | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binaryTree/LeastCommonAncestor.java)      |
 | 3   | [Sorted Array To Balanced BST](https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/) | VMWare Amazon                          | Binary Tree | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binaryTree/SortedArrayToBalancedBST.java) |
 | 4   | [Valid Binary Search Tree](https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/)     | Amazon Facebook                        | Binary Tree | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binaryTree/ValidBinarySearchTree.java)    |
+
+</details>
+
+<details>
+<summary> Arrays </summary>
+
+| #   | Problem                                                                                   | Companies                        | Topic                                               | Language                                                                                                                                        |
+|-----|-------------------------------------------------------------------------------------------|----------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/) | Amazon VMWare Riverbed Microsoft | Arrays-Frequency Array-slow & fast Pointer-HahTable | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binaryTree/SymmetricBinaryTree.java) |
 
 </details>

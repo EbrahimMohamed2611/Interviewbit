@@ -28,12 +28,12 @@ public class RemoveNthNodeFromListEnd {
     }
 
     public static void main(String[] args) {
-        ListNode listNode = new ListNode(4);
-        listNode.next = new ListNode(5);
-        listNode.next.next = new ListNode(3);
-        listNode.next.next.next = new ListNode(1);
-        listNode.next.next.next.next = new ListNode(20);
-        ListNode listNode1 = removeNthFromEnd(listNode, 3);
+        ListNode listNode = new ListNode(1);
+//        listNode.next = new ListNode(5);
+//        listNode.next.next = new ListNode(3);
+//        listNode.next.next.next = new ListNode(1);
+//        listNode.next.next.next.next = new ListNode(20);
+        ListNode listNode1 = removeNthFromEnd(listNode, 1);
         while (listNode1 != null) {
             System.out.println(listNode1.val);
             listNode1 = listNode1.next;
