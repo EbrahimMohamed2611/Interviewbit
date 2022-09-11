@@ -73,8 +73,16 @@
 <details>
 <summary> Arrays </summary>
 
-| #   | Problem                                                                                   | Companies                        | Topic                                               | Language                                                                                                                                        |
-|-----|-------------------------------------------------------------------------------------------|----------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/) | Amazon VMWare Riverbed Microsoft | Arrays-Frequency Array-slow & fast Pointer-HahTable | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binaryTree/SymmetricBinaryTree.java) |
+| #   | Problem                                                                                   | Companies                        | Topic                                               | Language                                                                                                                                     |
+|-----|-------------------------------------------------------------------------------------------|----------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/) | Amazon VMWare Riverbed Microsoft | Arrays-Frequency Array-slow & fast Pointer-HahTable | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/arrays/FindDuplicateInArray.java) |
+
+</details>
+<details>
+<summary> Greedy </summary>
+
+| #   | Problem                                                                   | Companies       | Topic       | Language                                                                                                                                     |
+|-----|---------------------------------------------------------------------------|-----------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Highest Product](https://www.interviewbit.com/problems/highest-product/) | Amazon Coursera | Arrays Sort | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/arrays/FindDuplicateInArray.java) |
 
 </details>
