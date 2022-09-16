@@ -7,10 +7,11 @@
 <details>
 <summary> Linked List</summary>
 
-| #   | Problem                                                                                               | Companies              | Topic       | Language                                                                                                                                             |
-|-----|-------------------------------------------------------------------------------------------------------|------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists/)               | Microsoft Amazon Yahoo | Linked List | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists.java)      |
-| 2   | [Remove Nth Node from List End](https://www.interviewbit.com/problems/remove-nth-node-from-list-end/) | HCL Amazon             | Linked List | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/RemoveNthNodeFromListEnd.java) |
+| #   | Problem                                                                                               | Companies              | Topic              | Language                                                                                                                                             |
+|-----|-------------------------------------------------------------------------------------------------------|------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists/)               | Microsoft Amazon Yahoo | Linked List        | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists.java)      |
+| 2   | [Remove Nth Node from List End](https://www.interviewbit.com/problems/remove-nth-node-from-list-end/) | HCL Amazon             | Linked List        | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/RemoveNthNodeFromListEnd.java) |
+| 3   | [LRU Cache](https://www.interviewbit.com/problems/lru-cache/)                                         | Google Facebook Amazon | LinkedList MashMap | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/RemoveNthNodeFromListEnd.java) |
 
 </details>
 
@@ -81,8 +82,9 @@
 <details>
 <summary> Greedy </summary>
 
-| #   | Problem                                                                   | Companies       | Topic       | Language                                                                                                                                     |
-|-----|---------------------------------------------------------------------------|-----------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Highest Product](https://www.interviewbit.com/problems/highest-product/) | Amazon Coursera | Arrays Sort | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/arrays/FindDuplicateInArray.java) |
+| #   | Problem                                                                   | Companies                                | Topic         | Language                                                                                                                               |
+|-----|---------------------------------------------------------------------------|------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Highest Product](https://www.interviewbit.com/problems/highest-product/) | Amazon Coursera                          | Arrays Sort   | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/greedy/HighestProduct.java) |
+| 1   | [Meeting rooms](https://www.interviewbit.com/problems/meeting-rooms/)     | Amazon Ajio Apple Fab Flipkart Microsoft | Interval Heap | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/greedy/HighestProduct.java) |
 
 </details>
