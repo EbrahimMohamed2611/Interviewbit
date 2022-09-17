@@ -11,7 +11,7 @@
 |-----|-------------------------------------------------------------------------------------------------------|------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | [Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists/)               | Microsoft Amazon Yahoo | Linked List        | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists.java)      |
 | 2   | [Remove Nth Node from List End](https://www.interviewbit.com/problems/remove-nth-node-from-list-end/) | HCL Amazon             | Linked List        | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/RemoveNthNodeFromListEnd.java) |
-| 3   | [LRU Cache](https://www.interviewbit.com/problems/lru-cache/)                                         | Google Facebook Amazon | LinkedList MashMap | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/RemoveNthNodeFromListEnd.java) |
+| 3   | [LRU Cache](https://www.interviewbit.com/problems/lru-cache/)                                         | Google Facebook Amazon | LinkedList MashMap | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/LRUCache.java)                 |
 
 </details>
 
@@ -44,9 +44,10 @@
 <details>
 <summary> Heaps and Maps </summary>
 
-| #   | Problem                                                                         | Companies                 | Topic          | Language                                                                                                                                       |
-|-----|---------------------------------------------------------------------------------|---------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [K Largest Elements](https://www.interviewbit.com/problems/k-largest-elements/) | Amazon Delhivery Flipkart | Heaps And Maps | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/KLargestElements.java) |
+| #   | Problem                                                                             | Companies                 | Topic                | Language                                                                                                                                       |
+|-----|-------------------------------------------------------------------------------------|---------------------------|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [K Largest Elements](https://www.interviewbit.com/problems/k-largest-elements/)     | Amazon Delhivery Flipkart | Heaps And Maps       | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/KLargestElements.java) |
+| 2   | [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) | Amazon Google Flipkart    | Heaps And LinkedList | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/KLargestElements.java) |
 
 </details>
 
