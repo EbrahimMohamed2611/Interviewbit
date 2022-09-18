@@ -94,8 +94,9 @@
 <details>
 <summary> Two Pointers </summary>
 
-| #   | Problem                                                                                         | Companies       | Topic                            | Language                                                                                                                               |
-|-----|-------------------------------------------------------------------------------------------------|-----------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Pair With Given Difference](https://www.interviewbit.com/problems/pair-with-given-difference/) | Amazon Flipkart | Arrays Sort tow pointers HashMap | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/greedy/HighestProduct.java) |
+| #   | Problem                                                                                                              | Companies                                          | Topic                            | Language                                                                                                                                             |
+|-----|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Pair With Given Difference](https://www.interviewbit.com/problems/pair-with-given-difference/)                      | Amazon Flipkart                                    | Arrays Sort tow pointers HashMap | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/twoPointers/PairWithGivenDifference.java) |
+| 2   | [** Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/) | United Healthgroup Amazon Google Microsoft Expedia | Arrays Sort tow pointers HashMap | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/greedy/HighestProduct.java)               |
 
 </details>
