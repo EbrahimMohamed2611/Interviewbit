@@ -1,7 +1,7 @@
-# Interviewbit
-# Amazone Question
+# Interview bit
+# Amazon Question
 
-![InerviewBit ](InerviewBit.png)
+![Interview Bit ](InterviewBit.png)
 
 
 <details>
@@ -44,10 +44,10 @@
 <details>
 <summary> Heaps and Maps </summary>
 
-| #   | Problem                                                                             | Companies                 | Topic                | Language                                                                                                                                       |
-|-----|-------------------------------------------------------------------------------------|---------------------------|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [K Largest Elements](https://www.interviewbit.com/problems/k-largest-elements/)     | Amazon Delhivery Flipkart | Heaps And Maps       | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/KLargestElements.java) |
-| 2   | [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) | Amazon Google Flipkart    | Heaps And LinkedList | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/KLargestElements.java) |
+| #   | Problem                                                                             | Companies                 | Topic                | Language                                                                                                                                        |
+|-----|-------------------------------------------------------------------------------------|---------------------------|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [K Largest Elements](https://www.interviewbit.com/problems/k-largest-elements/)     | Amazon Delhivery Flipkart | Heaps And Maps       | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/KLargestElements.java)  |
+| 2   | [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) | Amazon Google Flipkart    | Heaps And LinkedList | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/MergeKSortedLists.java) |
 
 </details>
 
@@ -80,12 +80,22 @@
 | 1   | [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/) | Amazon VMWare Riverbed Microsoft | Arrays-Frequency Array-slow & fast Pointer-HahTable | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/arrays/FindDuplicateInArray.java) |
 
 </details>
+
 <details>
 <summary> Greedy </summary>
 
 | #   | Problem                                                                   | Companies                                | Topic         | Language                                                                                                                               |
 |-----|---------------------------------------------------------------------------|------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | [Highest Product](https://www.interviewbit.com/problems/highest-product/) | Amazon Coursera                          | Arrays Sort   | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/greedy/HighestProduct.java) |
-| 1   | [Meeting rooms](https://www.interviewbit.com/problems/meeting-rooms/)     | Amazon Ajio Apple Fab Flipkart Microsoft | Interval Heap | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/greedy/HighestProduct.java) |
+| 2   | [Meeting rooms](https://www.interviewbit.com/problems/meeting-rooms/)     | Amazon Ajio Apple Fab Flipkart Microsoft | Interval Heap | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/greedy/MeetingRooms.java)   |
+
+</details>
+
+<details>
+<summary> Two Pointers </summary>
+
+| #   | Problem                                                                                         | Companies       | Topic                            | Language                                                                                                                               |
+|-----|-------------------------------------------------------------------------------------------------|-----------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Pair With Given Difference](https://www.interviewbit.com/problems/pair-with-given-difference/) | Amazon Flipkart | Arrays Sort tow pointers HashMap | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/greedy/HighestProduct.java) |
 
 </details>
