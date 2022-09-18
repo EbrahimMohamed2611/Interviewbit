@@ -13,7 +13,6 @@ public class RemoveDuplicatesFromSortedArray {
             if(a.get(insertPosition) < a.get(i)){
                 insertPosition++;
                 a.set(insertPosition, a.get(i));
-
             }
         }
         return insertPosition+1;
