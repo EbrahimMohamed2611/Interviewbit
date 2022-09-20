@@ -13,7 +13,7 @@
 | 2   | [Remove Nth Node from List End](https://www.interviewbit.com/problems/remove-nth-node-from-list-end/) | HCL Amazon                          | Linked List                       | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/RemoveNthNodeFromListEnd.java) |
 | 3   | [LRU Cache](https://www.interviewbit.com/problems/lru-cache/)                                         | Google Facebook Amazon              | LinkedList MashMap                | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/LRUCache.java)                 |
 | 4   | [Merge Two Sorted Lists II](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)         | Amazon Adobe Expedia Microsoft      | LinkedList                        | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists_2.java)    |
-| 5   | [Add Two Numbers as Lists](https://www.interviewbit.com/problems/add-two-numbers-as-lists/)           | Amazon  Qualcomm Microsoft Facebook | LinkedList Two Pointers dummyNode | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/MergeTwoSortedLists_2.java)    |
+| 5   | [Add Two Numbers as Lists](https://www.interviewbit.com/problems/add-two-numbers-as-lists/)           | Amazon  Qualcomm Microsoft Facebook | LinkedList Two Pointers dummyNode | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/linkedList/AddTwoNumbersAsLists.java)     |
 
 </details>
 
@@ -40,6 +40,7 @@
 | #   | Problem                                                                                           | Companies                        | Topic         | Language                                                                                                                                               |
 |-----|---------------------------------------------------------------------------------------------------|----------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | [Rotated Sorted Array Search](https://www.interviewbit.com/problems/rotated-sorted-array-search/) | Facebook Google Microsoft Amazon | Binary Search | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binarySearch/RotatedSortedArraySearch.java) |
+| 2   | [Square Root of Integer](https://www.interviewbit.com/problems/square-root-of-integer/)           | Facebook Amazon Microsoft        | Binary Search | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binarySearch/RotatedSortedArraySearch.java) |
 
 </details>
 
