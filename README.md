@@ -40,7 +40,7 @@
 | #   | Problem                                                                                           | Companies                        | Topic         | Language                                                                                                                                               |
 |-----|---------------------------------------------------------------------------------------------------|----------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | [Rotated Sorted Array Search](https://www.interviewbit.com/problems/rotated-sorted-array-search/) | Facebook Google Microsoft Amazon | Binary Search | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binarySearch/RotatedSortedArraySearch.java) |
-| 2   | [Square Root of Integer](https://www.interviewbit.com/problems/square-root-of-integer/)           | Facebook Amazon Microsoft        | Binary Search | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binarySearch/RotatedSortedArraySearch.java) |
+| 2   | [Square Root of Integer](https://www.interviewbit.com/problems/square-root-of-integer/)           | Facebook Amazon Microsoft        | Binary Search | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binarySearch/SquareRootOfInteger.java)      |
 
 </details>
 
@@ -102,5 +102,14 @@
 | 1   | [Pair With Given Difference](https://www.interviewbit.com/problems/pair-with-given-difference/)                                         | Amazon Flipkart                                       | Arrays Sort Tow pointers HashMap | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/twoPointers/PairWithGivenDifference.java)           |
 | 2   | [** Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/)                    | (United Health group) Amazon Google Microsoft Expedia | Arrays Sort Tow pointers HashMap | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/twoPointers/RemoveDuplicatesFromSortedArray.java)   |
 | 3   | [**(Remove Duplicates From UnSorted Array) Remove Element from Array](https://www.interviewbit.com/problems/remove-element-from-array/) | Amazon                                                | Arrays Tow pointers              | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/twoPointers/RemoveDuplicatesFromUnSortedArray.java) |
+
+</details>
+
+<details>
+<summary> Graphs </summary>
+
+| #   | Problem                                                                                       | Companies | Topic          | Language                                                                                                                                             |
+|-----|-----------------------------------------------------------------------------------------------|-----------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Cycle in Undirected Graph](https://www.interviewbit.com/problems/cycle-in-undirected-graph/) | Amazon    | Graph BFFS DFS | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/twoPointers/PairWithGivenDifference.java) |
 
 </details>
