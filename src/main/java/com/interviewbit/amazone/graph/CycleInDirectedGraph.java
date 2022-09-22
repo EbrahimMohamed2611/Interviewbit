@@ -9,7 +9,7 @@ public class CycleInDirectedGraph {
         buildAdjacencyList(adjacencyList, numberOnNodes, matrix);
         boolean[] visited = new boolean[numberOnNodes + 1];
         boolean[] pathVisited = new boolean[numberOnNodes + 1];
-        for (int i = 1; i <= numberOnNodes; i++) {
+        for (int i = 1; i <= numberOnNodes; i++) { // for Multiple Components
             if (!visited[i])
                 if (isGraphHaveCycle(i, visited, pathVisited, adjacencyList))
                     return 1;
@@ -24,7 +24,7 @@ public class CycleInDirectedGraph {
             if (!visited[neighbour]) {
                 if (isGraphHaveCycle(neighbour, visited, pathVisited, adjacencyList))
                     return true;
-            } else if (!pathVisited[neighbour])
+            } else if (pathVisited[neighbour])
                 return true;
         }
         pathVisited[node] = false;
@@ -39,7 +39,6 @@ public class CycleInDirectedGraph {
             adjacencyList.get(list.get(0)).add(list.get(1));
         }
     }
-
 
     public static void main(String[] args) {
 //    List<List<Integer>> list = new ArrayList<>();
