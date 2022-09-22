@@ -6,6 +6,10 @@ import java.util.Queue;
 
 public class CycleInUndirectedGraph {
 
+    /*
+    Time: O(N + 2E) + (E)
+    Space: O(N)
+     */
     public int solve(int nodes, ArrayList<ArrayList<Integer>> adjacencyList) {
 
         ArrayList<ArrayList<Integer>> adjList = new ArrayList<>();

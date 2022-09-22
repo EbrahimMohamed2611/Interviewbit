@@ -108,8 +108,9 @@
 <details>
 <summary> Graphs </summary>
 
-| #   | Problem                                                                                       | Companies | Topic          | Language                                                                                                                                             |
-|-----|-----------------------------------------------------------------------------------------------|-----------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Cycle in Undirected Graph](https://www.interviewbit.com/problems/cycle-in-undirected-graph/) | Amazon    | Graph BFFS DFS | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/twoPointers/PairWithGivenDifference.java) |
+| #   | Problem                                                                                       | Companies             | Topic         | Language                                                                                                                                      |
+|-----|-----------------------------------------------------------------------------------------------|-----------------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Cycle in Undirected Graph](https://www.interviewbit.com/problems/cycle-in-undirected-graph/) | Amazon                | Graph BFS DFS | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/graph/CycleInUndirectedGraph.java) |
+| 2   | [Cycle in Directed Graph](https://www.interviewbit.com/problems/cycle-in-directed-graph/)     | Amazon Morgan Stanley | Graph BFS DFS | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/graph/CycleInUndirectedGraph.java) |
 
 </details>
