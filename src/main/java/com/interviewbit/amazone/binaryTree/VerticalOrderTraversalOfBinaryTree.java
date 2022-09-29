@@ -1,5 +1,7 @@
 package com.interviewbit.amazone.binaryTree;
 
+import com.sun.source.tree.Tree;
+
 import java.util.*;
 
 public class VerticalOrderTraversalOfBinaryTree {
@@ -83,6 +85,29 @@ public class VerticalOrderTraversalOfBinaryTree {
         //final step we need to populate the values
         return new ArrayList<>(map.values());
     }
+    // InterviewBit Version just sort by vertical number
+    public ArrayList<ArrayList<Integer>> verticalOrderTraversalDFS(TreeNode root) {
+        if(root == null)
+            return new ArrayList<>();
+
+        Map<Integer, ArrayList<Integer>> map = new TreeMap<>();
+        // root will be in level 0 and vertical 0 (0,0)
+       dfs(root,0,0,map);
+
+        //final step we need to populate the values
+        return new ArrayList<>(map.values());
+    }
+
+    private void dfs(TreeNode root, int col, int row, Map<Integer, ArrayList<Integer>> map){
+        if(root == null) return;
+
+        map.putIfAbsent(col, new ArrayList<>());
+        map.get(col).add(root.val);
+
+        dfs(root.left, col-1, row+1, map);
+        dfs(root.right, col+1, row+1, map);
+
+    }
     public static void main(String[] args) {
         /*
         		 1
@@ -102,6 +127,8 @@ public class VerticalOrderTraversalOfBinaryTree {
         treeNode.right.left.right = new TreeNode(5);
 //        treeNode.right.right = new TreeNode(9);
         ArrayList<ArrayList<Integer>> list = verticalOrderTraversalOfBinaryTree.verticalOrderTraversal2(treeNode);
+        ArrayList<ArrayList<Integer>> list2 = verticalOrderTraversalOfBinaryTree.verticalOrderTraversalDFS(treeNode);
         System.out.println(list);
+        System.out.println(list2);
     }
 }
