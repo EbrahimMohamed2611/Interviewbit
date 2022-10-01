@@ -90,7 +90,7 @@
 | 4   | [Next Permutation](https://www.interviewbit.com/problems/max-sum-contiguous-subarray/)                    | Amazon Microsoft Facebook Google Apple Adobe Bloomberg Uber            | Arrays permutation                                  | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/arrays/NextPermutation.java)             |
 | 5   | [Rotate Matrix](https://www.interviewbit.com/problems/rotate-matrix/)                                     | Amazon  Facebook Google Zoha                                           | Arrays permutation                                  | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/arrays/RotateMatrix.java)                |
 | 6   | [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | Amazon                                                                 | Arrays frequencyArray                               | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/arrays/RepeatAndMissingNumberArray.java) |
-| 7   | [first Missing Positive](https://www.interviewbit.com/problems/first-missing-integer/)                    | Amazon                                                                 | Arrays Cycle sort HashSet                           | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/arrays/RepeatAndMissingNumberArray.java) |
+| 7   | [first Missing Positive](https://www.interviewbit.com/problems/first-missing-integer/)                    | Amazon                                                                 | Arrays Cycle sort HashSet                           | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/arrays/FirstMissingInteger.java)         |
 
 </details>
 
@@ -124,5 +124,14 @@
 | 1   | [Cycle in Undirected Graph](https://www.interviewbit.com/problems/cycle-in-undirected-graph/)                                                                | Amazon                                  | Graph BFS DFS                         | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/graph/CycleInUndirectedGraph.java)                             |
 | 2   | [Cycle in Directed Graph](https://www.interviewbit.com/problems/cycle-in-directed-graph/)                                                                    | Amazon Morgan Stanley                   | Graph BFS DFS                         | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/graph/CycleInDirectedGraph.java)                               |
 | 3   | [Possibility of finishing all courses given pre-requisites](https://www.interviewbit.com/problems/possibility-of-finishing-all-courses-given-prerequisites/) | Amazon Flipkart Grab Infoworks Zenefits | Graph Kahn's Topological Sort BFS DFS | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/graph/PossibilityOfFinishingAllCoursesGivenPreRequisites.java) |
+
+</details>
+
+<details>
+<summary> Dynamic Programming </summary>
+
+| #   | Problem                                                                                                                                                      | Companies                               | Topic     | Language                                                                                                                                                                  |
+|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Palindrome Partitioning II](https://www.interviewbit.com/problems/palindrome-partitioning-ii/)                                                                | Amazon Google Tower Research Capital                                  | String DP | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/graph/CycleInUndirectedGraph.java)                             |
 
 </details>
