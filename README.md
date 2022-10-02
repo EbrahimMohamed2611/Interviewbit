@@ -130,8 +130,9 @@
 <details>
 <summary> Dynamic Programming </summary>
 
-| #   | Problem                                                                                                                                                      | Companies                               | Topic     | Language                                                                                                                                                                  |
-|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Palindrome Partitioning II](https://www.interviewbit.com/problems/palindrome-partitioning-ii/)                                                                | Amazon Google Tower Research Capital                                  | String DP | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/graph/CycleInUndirectedGraph.java)                             |
+| #   | Problem                                                                                         | Companies                               | Topic     | Language                                                                                                                                                   |
+|-----|-------------------------------------------------------------------------------------------------|-----------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Palindrome Partitioning II](https://www.interviewbit.com/problems/palindrome-partitioning-ii/) | Amazon Google Tower Research Capital    | String DP | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/PalindromePartitioning.java) |
+| 2   | [Longest Increasing Subsequence](https://www.interviewbit.com/problems/longest-increasing-subsequence/) | Amazon Facebook Yahoo Microsoft | String DP | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/PalindromePartitioning.java) |
 
 </details>
