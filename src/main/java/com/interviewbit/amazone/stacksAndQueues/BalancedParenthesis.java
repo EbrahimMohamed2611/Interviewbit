@@ -1,4 +1,4 @@
-package com.interviewbit.amazone;
+package com.interviewbit.amazone.stacksAndQueues;
 
 import java.util.Stack;
 
