@@ -51,6 +51,7 @@
 |-----|-------------------------------------------------------------------------------------|---------------------------|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | [K Largest Elements](https://www.interviewbit.com/problems/k-largest-elements/)     | Amazon Delhivery Flipkart | Heaps And Maps       | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/KLargestElements.java)  |
 | 2   | [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) | Amazon Google Flipkart    | Heaps And LinkedList | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/MergeKSortedLists.java) |
+| 3   | [2 Sum](https://www.interviewbit.com/problems/2-sum/) | Amazon Google Facebook    | Heaps And LinkedList | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/MergeKSortedLists.java) |
 
 </details>
 
@@ -77,7 +78,7 @@
 | 7   | [Vertical Order traversal of Binary Tree](https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/)                 | Amazon Grab Infoworks Microsoft        | Binary Tree | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binaryTree/VerticalOrderTraversalOfBinaryTree.java)                 |
 | 8   | [Construct Binary Tree From Inorder And Preorder](https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/) | Amazon Microsoft                       | Binary Tree | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binaryTree/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) |
 | 9   | [Binary Tree From Inorder And Postorder](https://www.interviewbit.com/problems/binary-tree-from-inorder-and-postorder/)                   | Amazon Microsoft                       | Binary Tree | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binaryTree/BinaryTreeFromInorderAndPostorder.java)                  |
-| 10  | [Flatten Binary Tree to Linked List](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/)                           | Amazon Microsoft Adobe                 | Binary Tree | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binaryTree/BinaryTreeFromInorderAndPostorder.java)                  |
+| 10  | [Flatten Binary Tree to Linked List](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/)                           | Amazon Microsoft Adobe                 | Binary Tree | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/binaryTree/FlattenBinaryTreeToLinkedList.java)                  |
 
 </details>
 
