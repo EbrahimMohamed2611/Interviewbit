@@ -47,11 +47,12 @@
 <details>
 <summary> Heaps and Maps </summary>
 
-| #   | Problem                                                                             | Companies                 | Topic                | Language                                                                                                                                        |
-|-----|-------------------------------------------------------------------------------------|---------------------------|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [K Largest Elements](https://www.interviewbit.com/problems/k-largest-elements/)     | Amazon Delhivery Flipkart | Heaps And Maps       | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/KLargestElements.java)  |
-| 2   | [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) | Amazon Google Flipkart    | Heaps And LinkedList | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/MergeKSortedLists.java) |
-| 3   | [2 Sum](https://www.interviewbit.com/problems/2-sum/) | Amazon Google Facebook    | Heaps And LinkedList | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/MergeKSortedLists.java) |
+| #   | Problem                                                                            | Companies                 | Topic                          | Language                                                                                                                                        |
+|-----|------------------------------------------------------------------------------------|---------------------------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [K Largest Elements](https://www.interviewbit.com/problems/k-largest-elements/)    | Amazon Delhivery Flipkart | Heaps And Maps                 | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/KLargestElements.java)  |
+| 2   | [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) | Amazon Google Flipkart    | Heaps And LinkedList           | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/MergeKSortedLists.java) |
+| 3   | [2 Sum](https://www.interviewbit.com/problems/2-sum/) | Amazon Google Facebook    | HashMap And Array Two Pointers | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/MergeKSortedLists.java) |
+| 4   | [Anagrams](https://www.interviewbit.com/problems/anagrams/) | Amazon Microsoft Goldman Sachs Deloitte    | HashMap String Sort            | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/MergeKSortedLists.java) |
 
 </details>
 
