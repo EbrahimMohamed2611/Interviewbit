@@ -141,5 +141,6 @@
 | 3   | [Ways to Decode](https://www.interviewbit.com/problems/ways-to-decode/)                                         | Amazon Facebook Google               | String DP | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/WaysToDecode.java)                 |
 | 4   | [Best Time to Buy and Sell Stocks I](https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i/) | Amazon Facebook Google               | Stock DP  | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/WaysToDecode.java)                 |
 | 5   | [Chain of Pairs](https://www.interviewbit.com/problems/chain-of-pairs/)                                         | Amazon Directi                       | LIS DP    | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/WaysToDecode.java)                 |
+| 6   | [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)                                             | Amazon Deshaw                        | SubSet DP | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/WaysToDecode.java)                 |
 
 </details>
