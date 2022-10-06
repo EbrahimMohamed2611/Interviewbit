@@ -124,10 +124,10 @@
 <details>
 <summary> Stacks And Queues </summary>
 
-| #   | Problem                                                                                                                                                   | Companies       | Topic     | Language                                                                                                                                      |
-|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [First non-repeating character in a stream of characters](https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/) | Amazon Flipkart | Queue Set | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/graph/CycleInUndirectedGraph.java) |
-| 2   | [Balanced Parantheses](https://www.interviewbit.com/problems/balanced-parantheses/)                                                                       | Amazon Google   | Stack     | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/graph/CycleInDirectedGraph.java)   |
+| #   | Problem                                                                                                                                                   | Companies       | Topic     | Language                                                                                                                                                                         |
+|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [First non-repeating character in a stream of characters](https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/) | Amazon Flipkart | Queue Set | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/stacksAndQueues/FirstNonRepeatingCharacterInAStreamOfCharacters.java) |
+| 2   | [Balanced Parantheses](https://www.interviewbit.com/problems/balanced-parantheses/)                                                                       | Amazon Google   | Stack     | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/stacksAndQueues/BalancedParenthesis.java)                             |
 
 </details>
 
@@ -154,5 +154,6 @@
 | 5   | [Chain of Pairs](https://www.interviewbit.com/problems/chain-of-pairs/)                                         | Amazon Directi                            | LIS DP    | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/ChainOfPairs.java)                 |
 | 6   | [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)                                             | Amazon Deshaw                             | SubSet DP | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/_0_1Knapsack.java)                 |
 | 7   | [Stairs](https://www.interviewbit.com/problems/stairs/)                                                         | Morgan Stanley Amazon Intel Goldman Sachs | SubSet DP | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/Stairs.java)                       |
+| 8   | [Max Sum Path in Binary Tree](https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/)               | Directi Amazon                            | SubSet DP | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/Stairs.java)                       |
 
 </details>
