@@ -20,9 +20,10 @@
 <details>
 <summary> Strings </summary>
 
-| #   | Problem                                                                                               | Companies                | Topic  | Language                                                                                                                                              |
-|-----|-------------------------------------------------------------------------------------------------------|--------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/) | Amazon Microsoft Groupon | String | [java](hhttps://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/strings/LongestPalindromicSubstring.java) |
+| #   | Problem                                                                                               | Companies                                        | Topic  | Language                                                                                                                                              |
+|-----|-------------------------------------------------------------------------------------------------------|--------------------------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/) | Amazon Microsoft Groupon                         | String | [java](hhttps://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/strings/LongestPalindromicSubstring.java) |
+| 2   | [Reverse the String](https://www.interviewbit.com/problems/reverse-the-string/)                       | Qualcomm Amazon Microsoft Cisco Facebook Twitter | String | [java](hhttps://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/strings/LongestPalindromicSubstring.java) |
 
 </details>
 <details>
@@ -47,12 +48,12 @@
 <details>
 <summary> Heaps and Maps </summary>
 
-| #   | Problem                                                                             | Companies                               | Topic                          | Language                                                                                                                                        |
-|-----|-------------------------------------------------------------------------------------|-----------------------------------------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [K Largest Elements](https://www.interviewbit.com/problems/k-largest-elements/)     | Amazon Delhivery Flipkart               | Heaps And Maps                 | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/KLargestElements.java)  |
-| 2   | [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/) | Amazon Google Flipkart                  | Heaps And LinkedList           | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/MergeKSortedLists.java) |
-| 3   | [2 Sum](https://www.interviewbit.com/problems/2-sum/)                               | Amazon Google Facebook                  | HashMap And Array Two Pointers | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/TwoSum.java)            |
-| 4   | [Anagrams](https://www.interviewbit.com/problems/anagrams/)                         | Amazon Microsoft Goldman Sachs Deloitte | HashMap String Sort            | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/Anagrams.java)          |
+| #   | Problem                                                                                     | Companies                               | Topic                          | Language                                                                                                                                        |
+|-----|---------------------------------------------------------------------------------------------|-----------------------------------------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [K Largest Elements](https://www.interviewbit.com/problems/k-largest-elements/)             | Amazon Delhivery Flipkart               | Heaps And Maps                 | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/KLargestElements.java)  |
+| 2   | [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/)         | Amazon Google Flipkart                  | Heaps And LinkedList           | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/MergeKSortedLists.java) |
+| 3   | [2 Sum](https://www.interviewbit.com/problems/2-sum/)                                       | Amazon Google Facebook                  | HashMap And Array Two Pointers | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/TwoSum.java)            |
+| 4   | [Anagrams](https://www.interviewbit.com/problems/anagrams/)                                 | Amazon Microsoft Goldman Sachs Deloitte | HashMap String Sort            | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/heapsAndMaps/Anagrams.java)          |
 
 </details>
 
@@ -154,6 +155,6 @@
 | 5   | [Chain of Pairs](https://www.interviewbit.com/problems/chain-of-pairs/)                                         | Amazon Directi                            | LIS DP    | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/ChainOfPairs.java)                 |
 | 6   | [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)                                             | Amazon Deshaw                             | SubSet DP | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/_0_1Knapsack.java)                 |
 | 7   | [Stairs](https://www.interviewbit.com/problems/stairs/)                                                         | Morgan Stanley Amazon Intel Goldman Sachs | SubSet DP | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/Stairs.java)                       |
-| 8   | [Max Sum Path in Binary Tree](https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/)               | Directi Amazon                            | SubSet DP | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/Stairs.java)                       |
+| 8   | [Max Sum Path in Binary Tree](https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/)               | Directi Amazon                            | SubSet DP | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/MaxSumPathInBinaryTree.java)       |
 
 </details>
