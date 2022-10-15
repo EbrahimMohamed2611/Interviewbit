@@ -20,10 +20,10 @@
 <details>
 <summary> Strings </summary>
 
-| #   | Problem                                                                                               | Companies                                        | Topic  | Language                                                                                                                                              |
-|-----|-------------------------------------------------------------------------------------------------------|--------------------------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/) | Amazon Microsoft Groupon                         | String | [java](hhttps://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/strings/LongestPalindromicSubstring.java) |
-| 2   | [Reverse the String](https://www.interviewbit.com/problems/reverse-the-string/)                       | Qualcomm Amazon Microsoft Cisco Facebook Twitter | String | [java](hhttps://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/strings/LongestPalindromicSubstring.java) |
+| #   | Problem                                                                                               | Companies                                        | Topic  | Language                                                                                                                                             |
+|-----|-------------------------------------------------------------------------------------------------------|--------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/) | Amazon Microsoft Groupon                         | String | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/strings/LongestPalindromicSubstring.java) |
+| 2   | [Reverse the String](https://www.interviewbit.com/problems/reverse-the-string/)                       | Qualcomm Amazon Microsoft Cisco Facebook Twitter | String | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/strings/ReverseTheString.java)            |
 
 </details>
 <details>
@@ -96,6 +96,7 @@
 | 5   | [Rotate Matrix](https://www.interviewbit.com/problems/rotate-matrix/)                                     | Amazon  Facebook Google Zoha                                           | Arrays permutation                                  | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/arrays/RotateMatrix.java)                |
 | 6   | [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | Amazon                                                                 | Arrays frequencyArray                               | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/arrays/RepeatAndMissingNumberArray.java) |
 | 7   | [first Missing Positive](https://www.interviewbit.com/problems/first-missing-integer/)                    | Amazon                                                                 | Arrays Cycle sort HashSet                           | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/arrays/FirstMissingInteger.java)         |
+| 8   | [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/)         | Google Amazon Directi Fab                                              | Arrays Interval                                     | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/arrays/FirstMissingInteger.java)         |
 
 </details>
 
