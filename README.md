@@ -159,3 +159,11 @@
 | 8   | [Max Sum Path in Binary Tree](https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/)               | Directi Amazon                            | SubSet DP | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/MaxSumPathInBinaryTree.java)       |
 
 </details>
+<details>
+<summary> Math </summary>
+
+| #   | Problem                                                                           | Companies | Topic          | Language                                                                                                                                                   |
+|-----|-----------------------------------------------------------------------------------|-----------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Excel Column Number](https://www.interviewbit.com/problems/excel-column-number/) | Amazon    | String Numbers | [java](https://github.com/EbrahimMohamed2611/Interviewbit/blob/main/src/main/java/com/interviewbit/amazone/dynamicProgramming/PalindromePartitioning.java) |
+
+</details>

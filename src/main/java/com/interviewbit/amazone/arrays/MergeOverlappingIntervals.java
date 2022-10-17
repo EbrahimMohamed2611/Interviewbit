@@ -28,6 +28,7 @@ There are 4 cases for overlapping intervals
 -------            --------         -------                 ------
     -------          ----                    -------        ------------
  */
+    // Time: O(N * LogN)
     public static ArrayList<Interval> merge(List<Interval> intervals) {
         Collections.sort(intervals, (interval1, interval2) -> interval1.start - interval2.start);
         ArrayList<Interval> mergedInterval = new ArrayList<>();
